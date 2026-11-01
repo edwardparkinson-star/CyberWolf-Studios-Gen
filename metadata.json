@@ -1,0 +1,6 @@
+{
+  "name": "CyberWolf Studios Gen",
+  "description": "Produce AI music videos matched to beat and lyrics with wide variety of imagination styles, customizable palettes, reference images, and 4K export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
